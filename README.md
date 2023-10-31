@@ -23,6 +23,11 @@ while P1DIR &= ~BIT0; configures P1.0 as an input pin.
 _> Background/ Origin/ Road Map
 
 history of product
+30,000 BC-dogs were first alarms system of human race
+3,000 BC -stone walls and moats
+1850-Magnetic contacts were installed on entry points which on disconnecting would trigger an alarm
+1990-motion detectors trigger alarms if they detect someone in an area they shouldnt be.
+2010-smart iot devices allow response to any security issues with higher level of efficiency. 
 in https://issuu.com/irjet/docs/irjet-v8i215
 
 _> Introduction

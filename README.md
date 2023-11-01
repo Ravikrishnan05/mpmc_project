@@ -35,10 +35,6 @@ in https://issuu.com/irjet/docs/irjet-v8i215
 write in own words
 https://issuu.com/irjet/docs/irjet-v8i215
 
-> Literature (ACS/ Nature/ Wiley/ IEEE Journals)
-> https://www.ijser.org/researchpaper/LASER-SECURITY-SYSTEM-Suman.pdf
-> https://www.irjet.net/archives/V5/i1/IRJET-V5I1163.pdf
-> https://www.iaps.org.in/journal/index.php/journaliaps/article/view/133
 
 ## commercial product 
 Laser-Enabled Security System Kit
@@ -46,3 +42,8 @@ $75.00
 
 Designed for students of all ages, this kit gives students an opportunity to build their own laser-enabled security system. Equipped with a laser, photo sensor, sound alarm, and all necessary tools, this kit can be used for classroom activities and outreach events.
 When using this kit, through interactive exploration and engagement, students enhance their critical thinking, problem solving, troubleshooting, and soft skills.
+## > Literature (ACS/ Nature/ Wiley/ IEEE Journals)
+
+> https://www.ijser.org/researchpaper/LASER-SECURITY-SYSTEM-Suman.pdf
+> https://www.irjet.net/archives/V5/i1/IRJET-V5I1163.pdf
+> https://www.iaps.org.in/journal/index.php/journaliaps/article/view/133

@@ -42,6 +42,12 @@ $75.00
 
 Designed for students of all ages, this kit gives students an opportunity to build their own laser-enabled security system. Equipped with a laser, photo sensor, sound alarm, and all necessary tools, this kit can be used for classroom activities and outreach events.
 When using this kit, through interactive exploration and engagement, students enhance their critical thinking, problem solving, troubleshooting, and soft skills.
+## novelty 
+
+We are the first ones to do laser security system with msp430 microcontroller and ldr with LM393 voltage comparator.
+MSP430 is known for its extremely low power consumption when compared to other microcontrollers, which makes it suitable for energy-efficient application
+in our project case.
+this makes our project unique.
 ## > Literature (ACS/ Nature/ Wiley/ IEEE Journals)
 
 > https://www.ijser.org/researchpaper/LASER-SECURITY-SYSTEM-Suman.pdf

@@ -38,6 +38,8 @@ https://issuu.com/irjet/docs/irjet-v8i215
 
 
 ## commercial product 
+OPTEX LASER based products
+Real Instruments Dual Beam Outdoor 100m Security Laser for Home Villa Farm House Factory Fencing Boundary Wall Burglar Alarm
 Laser-Enabled Security System Kit
 $75.00
 Designed for students of all ages, this kit gives students an opportunity to build their own laser-enabled security system. Equipped with a laser, photo sensor, sound alarm, and all necessary tools, this kit can be used for classroom activities and outreach events.
@@ -57,7 +59,7 @@ The resistance of an LDR varies inversely with the intensity of light falling on
 ## novelty 
 
 We are the first ones to do laser security system with msp430 microcontroller and ldr with LM393 voltage comparator.
-MSP430 is known for its extremely low power consumption when compared to other microcontrollers, which makes it suitable for energy-efficient application
+Because MSP430 is known for its extremely low power consumption when compared to other microcontrollers, which makes it suitable for energy-efficient application
 in our project case.
 this makes our project unique.
 
@@ -72,9 +74,9 @@ sound that is obtained through laser beam interruption caused by intruding anima
 > https://www.iaps.org.in/journal/index.php/journaliaps/article/view/133
 > https://www.drdo.gov.in/laser-fencing
 ### 1
- Laser Security System using arduino by Dharne,shreyash Dongare,Santhosh dhisale,atesh dongare
-
-
+ Laser Security System using arduino by Dharne,shreyash Dongare,Santhosh dhisale,atesh dongare.The proposed system consist of 
+ Laser Diode Module,LDR, Buzzer Alarm,Arduino Nano,battery power.In this system Arduino Nano is powered by battery.Arudino powers laser diode Module
+ when it recevies digital signal from ldr module.It decides to power buzzer.
 ### 2
 LASER SECURITY SYSTEM by Suman Singha,Debasis Maji.The proposed system consist of LDR,buzzer,LASER,NE555 Timers.
 If some cross the laser ray ldr sends its respose to NE555 which gives continuous signal to the buzzer.

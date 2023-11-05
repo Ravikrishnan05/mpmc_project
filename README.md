@@ -56,6 +56,14 @@ then  the analog voltages supplied by LM393 converted to digital by using ADC co
 1 when it is more than 512 as input to msp430.then microcontroller gives this output as input to buzzer as 1 to alarm 0 to off.   
 // just have it 
 The resistance of an LDR varies inversely with the intensity of light falling on it. When there is more light, the resistance of the LDR decreases, and when there is less light, the resistance of the LDR increases. The voltage divider circuit consisting of an LDR and a fixed resistor connected in series between the power supply and ground can be used to convert the resistance of the LDR to a voltage. The output voltage is proportional to the resistance of the LDR. The LM393 voltage comparator compares the input voltages and provides output based on which input voltage is larger. The analog voltages supplied by LM393 are converted to digital using an ADC converter. If the output of ADC is less than 512, it gives 0, and if it is more than 512, it gives 1 as input to MSP430 microcontroller. The microcontroller then gives this output as input to a buzzer as 1 to alarm and 0 to turn off.
+
+### working principle of buzzer  
+inverse piezo electric effect 
+Piezoelectric Ceramic Disc:----> this is surounded by a metal which is bronze 
+This is the main component of a piezo buzzer. It vibrates when an electric signal is applied, causing the production of sound waves
+Resonator: 
+This component often takes the form of a hollow enclosure, which amplifies the sound produced by the vibrating ceramic disc
+### qworking 
 ## novelty 
 
 We are the first ones to do laser security system with msp430 microcontroller and ldr with LM393 voltage comparator.

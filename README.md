@@ -34,6 +34,7 @@ in https://issuu.com/irjet/docs/irjet-v8i215
  In this era security is major issue security system is very essential these days as intrusions are increasing year after year. We should use latest technologies as thieves are also getting smarter, they now know how to break locks. We need a security system that is satisfactory in terms of security as well as cheap.LDR (Light dependent resistor) is the main component of this system as it detects the intrusion in the laser which then further sends signal to microcontroller. The second major component of this system is msp430 microcontroller which is be used to inform the owner about the intruder with an alert. This system is one of the efficient and cheapest security system that can be used anywhere not only in homes but also in farms to protect plants from animanls.
 write in own words
 https://issuu.com/irjet/docs/irjet-v8i215
+## literature 
 
 
 ## commercial product 
@@ -70,3 +71,16 @@ sound that is obtained through laser beam interruption caused by intruding anima
 > https://www.irjet.net/archives/V5/i1/IRJET-V5I1163.pdf
 > https://www.iaps.org.in/journal/index.php/journaliaps/article/view/133
 > https://www.drdo.gov.in/laser-fencing
+### 1
+ Laser Security System using arduino by Dharne,shreyash Dongare,Santhosh dhisale,atesh dongare
+
+
+### 2
+LASER SECURITY SYSTEM by Suman Singha,Debasis Maji.The proposed system consist of LDR,buzzer,LASER,NE555 Timers.
+If some cross the laser ray ldr sends its respose to NE555 which gives continuous signal to the buzzer.
+Then buzzer starts to alarm.
+### 3 
+Laser Based Security System by Dr.Sudarshan,Mrs.Harshitha,Mrs.Janhavi.The proposed system consist
+of ESP32 CAM,Blynk Application,LDR.In this system When somebody cross the laser ray the circuit 
+senses the discontinuity and sends the captured image of intruder by esp32 cam along with notification alert to Wi-Fi connected 
+device through Blynk Application.
